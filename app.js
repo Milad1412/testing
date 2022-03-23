@@ -1,1 +1,4 @@
-console.log('Login')
+console.log("Login");
+function myFunc() {
+  return;
+}
