@@ -1,6 +1,3 @@
-console.log("Login");
-function myFunc() {
-  return;
-}
+console.log('Login')
 
-
+console.log('something fixed')
